@@ -19,5 +19,6 @@ npm install to install the project dependencies
 'webdriver-manager update' to install selenium & borwser specific drivers
 
 # Run tests:
-npm run protractor Run tests using Chrome browser.
-this is the command for running project(protractor cucumber.conf.js --browser="chrome")
+npm run protractor Run tests using Chrome browser
+
+this is the command for running project(protractor cucumber.conf.js --browser="chrome").
