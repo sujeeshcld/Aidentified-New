@@ -1,6 +1,6 @@
 # Aidentified-New
 protractor-cucumber
-Protractor BDD sample tests using cucumber
+Protractor Aidentified tests using cucumber
 
 # Project Description:
 Project setup with Protractor version 6.1.2.
