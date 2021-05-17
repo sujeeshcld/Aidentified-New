@@ -3,7 +3,7 @@ protractor-cucumber
 Protractor BDD sample tests using cucumber
 
 # Project Description:
-Project setup with Protractor version 5.1.2.
+Project setup with Protractor version 6.1.2.
 Makes use of Page Objects.
 Written in Java script
 Page Object classes are in the ./pages directory and should inherit from basePage.po.
